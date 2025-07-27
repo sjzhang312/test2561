@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c4efa49a-718b-4c89-a4ef-f509c3814cf2" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/demo1">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="customMavenHome" value="D:\JavaProject\apache-maven-3.9.6" />
+        <option name="mavenHomeTypeForPersistence" value="CUSTOM" />
+        <option name="userSettingsFile" value="D:\JavaProject\apache-maven-3.9.6\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="17" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2unTppcmst0BiNAL6J0JEWmrK77" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ApiTest.executor": "Run",
+    "Application.BiTree.executor": "Run",
+    "Application.CallableTask.executor": "Run",
+    "Application.ChainPatternDemo (1).executor": "Run",
+    "Application.ChainPatternDemo.executor": "Run",
+    "Application.Client.executor": "Run",
+    "Application.Comparator.executor": "Run",
+    "Application.Comparator1 (1).executor": "Run",
+    "Application.Comparator1.executor": "Run",
+    "Application.CompleteRank.executor": "Run",
+    "Application.CustomThreadPoolExample.executor": "Run",
+    "Application.Demo (1).executor": "Run",
+    "Application.Demo.executor": "Run",
+    "Application.Demo0719 (1).executor": "Run",
+    "Application.Demo0719 (2).executor": "Run",
+    "Application.Demo0719 (4).executor": "Run",
+    "Application.Demo0719.executor": "Run",
+    "Application.ExecutorThread.executor": "Run",
+    "Application.FactoryMethodPatternDemo.executor": "Run",
+    "Application.FatoryPatternDemo.executor": "Run",
+    "Application.Fun1.executor": "Run",
+    "Application.Future.Main.executor": "Run",
+    "Application.GetClassDemo.executor": "Run",
+    "Application.LC.demo.executor": "Run",
+    "Application.LC01.executor": "Run",
+    "Application.LC0427.Solution.executor": "Run",
+    "Application.LC102.executor": "Run",
+    "Application.LC121.executor": "Run",
+    "Application.LC124.executor": "Run",
+    "Application.LC128.executor": "Run",
+    "Application.LC131.executor": "Run",
+    "Application.LC14.executor": "Run",
+    "Application.LC141.executor": "Run",
+    "Application.LC142.executor": "Run",
+    "Application.LC143.executor": "Run",
+    "Application.LC146 (1).executor": "Run",
+    "Application.LC146.executor": "Run",
+    "Application.LC148.executor": "Run",
+    "Application.LC15.executor": "Run",
+    "Application.LC151.executor": "Run",
+    "Application.LC165.executor": "Run",
+    "Application.LC19.executor": "Run",
+    "Application.LC199.executor": "Run",
+    "Application.LC20.executor": "Run",
+    "Application.LC200.executor": "Run",
+    "Application.LC21.executor": "Run",
+    "Application.LC215.executor": "Run",
+    "Application.LC219.executor": "Run",
+    "Application.LC22.executor": "Run",
+    "Application.LC23.executor": "Run",
+    "Application.LC236.executor": "Run",
+    "Application.LC2384.executor": "Run",
+    "Application.LC25.executor": "Run",
+    "Application.LC300.executor": "Run",
+    "Application.LC32.executor": "Run",
+    "Application.LC322.executor": "Run",
+    "Application.LC33.executor": "Run",
+    "Application.LC415.executor": "Run",
+    "Application.LC42.executor": "Run",
+    "Application.LC46.executor": "Run",
+    "Application.LC53.executor": "Run",
+    "Application.LC54.executor": "Run",
+    "Application.LC56 (1).executor": "Run",
+    "Application.LC56.executor": "Run",
+    "Application.LC72.executor": "Run",
+    "Application.LC76.executor": "Run",
+    "Application.LC78.executor": "Run",
+    "Application.LC88.executor": "Run",
+    "Application.LC912.executor": "Run",
+    "Application.LC92.executor": "Run",
+    "Application.LRUCache.executor": "Run",
+    "Application.LargeLocalVariables.executor": "Run",
+    "Application.ListNode.executor": "Run",
+    "Application.Main (1).executor": "Run",
+    "Application.Main.executor": "Debug",
+    "Application.Main1.executor": "Run",
+    "Application.MultiConditionDemo.executor": "Run",
+    "Application.MultiThreadedServer.executor": "Run",
+    "Application.MyCallable.executor": "Run",
+    "Application.MyRunnable.executor": "Run",
+    "Application.MyThread.executor": "Run",
+    "Application.NonDecreasingXOR.executor": "Run",
+    "Application.OnlineCode.LC20.executor": "Run",
+    "Application.ParamTest.executor": "Run",
+    "Application.Person.executor": "Run",
+    "Application.ReentrantLockExample (1).executor": "Run",
+    "Application.ReentrantLockExample.executor": "Run",
+    "Application.ReverseList.executor": "Run",
+    "Application.Server.executor": "Run",
+    "Application.SimpleFactory.executor": "Run",
+    "Application.SimpleFileTransferTest.executor": "Run",
+    "Application.Solution.executor": "Run",
+    "Application.Solution1.executor": "Run",
+    "Application.Solution2.executor": "Debug",
+    "Application.SolutionDFS.executor": "Run",
+    "Application.SortStack.executor": "Run",
+    "Application.Sum3.executor": "Run",
+    "Application.TCPClient.executor": "Run",
+    "Application.TCPServer.executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.Test2.executor": "Run",
+    "Application.Test3.executor": "Run",
+    "Application.Thread2.executor": "Run",
+    "Application.ThreadPoolExample.executor": "Run",
+    "Application.UDPClient.executor": "Run",
+    "Application.UDPServer.executor": "Run",
+    "Application.VolatileAtomicityDemo.executor": "Run",
+    "Application.WaitNotifyDemo.executor": "Run",
+    "Application.Wangxiaoer.executor": "Run",
+    "Application.Zhangsan.executor": "Run",
+    "Application.ZigTraversal.executor": "Run",
+    "Application.code02.executor": "Run",
+    "Application.code03.executor": "Run",
+    "Application.demo (1).executor": "Run",
+    "Application.demo.demo.executor": "Run",
+    "Application.demo.executor": "Run",
+    "Application.demo01.executor": "Run",
+    "Application.demo02.executor": "Run",
+    "Application.demo03 (1).executor": "Run",
+    "Application.demo03.executor": "Run",
+    "Application.demo0416.executor": "Run",
+    "Application.demo0418 (1).executor": "Run",
+    "Application.demo0418.executor": "Run",
+    "Application.demo0420.executor": "Run",
+    "Application.demo0421.executor": "Run",
+    "Application.demo0422.executor": "Run",
+    "Application.demo0509.executor": "Run",
+    "Application.demo0515.executor": "Run",
+    "Application.demo0522.executor": "Run",
+    "Application.demo0604.executor": "Run",
+    "Application.demo0606.executor": "Run",
+    "Application.demo0612.executor": "Run",
+    "Application.demo07.executor": "Run",
+    "Application.demo0720.executor": "Run",
+    "Application.demo2.executor": "Run",
+    "Application.demo4.executor": "Run",
+    "Application.demo5.executor": "Run",
+    "Application.jd01 (1).executor": "Run",
+    "Application.jd01.executor": "Run",
+    "Application.keda2.executor": "Run",
+    "Application.lC18.executor": "Run",
+    "Application.lc347.executor": "Run",
+    "Application.longgestPalindrome.executor": "Run",
+    "Application.quickSort.executor": "Run",
+    "Application.test01.executor": "Run",
+    "Application.xf01.executor": "Run",
+    "Application.xf02.executor": "Run",
+    "Application.xf03 (1).executor": "Run",
+    "Application.xf03 (2).executor": "Run",
+    "Application.xf03 (3).executor": "Run",
+    "Application.xf03.executor": "Run",
+    "Application.xf0322.executor": "Run",
+    "Application.xf072701 (1).executor": "Run",
+    "Application.xf072701.executor": "Debug",
+    "Application.xf072702.executor": "Run",
+    "Application.xf072703.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "jdk.selected.JAVA_MODULE": "17",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/JavaProject/Code",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.48421052",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.demo07">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="anythread.Client" />
+      <module name="Code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="anythread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="anythread.Server" />
+      <module name="Code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="anythread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleFileTransferTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="anythread.SimpleFileTransferTest" />
+      <module name="Code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="anythread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UDPClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="anythread.UDPClient" />
+      <module name="Code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="anythread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="demo07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="anythread.demo07" />
+      <module name="Code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="anythread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.demo07" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Server" />
+        <item itemvalue="Application.SimpleFileTransferTest" />
+        <item itemvalue="Application.UDPClient" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.15989.150" />
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-IU-241.15989.150" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4efa49a-718b-4c89-a4ef-f509c3814cf2" name="Changes" comment="" />
+      <created>1742883524261</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1742883524261</updated>
+      <workItem from="1742883525448" duration="8845000" />
+      <workItem from="1742893253814" duration="1168000" />
+      <workItem from="1742894703118" duration="13895000" />
+      <workItem from="1742974474935" duration="607000" />
+      <workItem from="1743063292498" duration="8400000" />
+      <workItem from="1743123927087" duration="11606000" />
+      <workItem from="1743211674718" duration="2337000" />
+      <workItem from="1743296731992" duration="14803000" />
+      <workItem from="1743423979193" duration="701000" />
+      <workItem from="1743467364401" duration="12110000" />
+      <workItem from="1743575044082" duration="2842000" />
+      <workItem from="1743582259227" duration="1005000" />
+      <workItem from="1743731111821" duration="8771000" />
+      <workItem from="1743936315229" duration="3435000" />
+      <workItem from="1743990683319" duration="3259000" />
+      <workItem from="1744028404763" duration="605000" />
+      <workItem from="1744076354478" duration="610000" />
+      <workItem from="1744161985102" duration="4534000" />
+      <workItem from="1744350862380" duration="1334000" />
+      <workItem from="1744631929480" duration="1801000" />
+      <workItem from="1744677206844" duration="6955000" />
+      <workItem from="1744774763166" duration="8016000" />
+      <workItem from="1744800063745" duration="2091000" />
+      <workItem from="1744804226975" duration="4003000" />
+      <workItem from="1744941319806" duration="5931000" />
+      <workItem from="1744962184735" duration="8420000" />
+      <workItem from="1745025674311" duration="4126000" />
+      <workItem from="1745108896923" duration="7883000" />
+      <workItem from="1745205326123" duration="9734000" />
+      <workItem from="1745284583405" duration="3298000" />
+      <workItem from="1745392645773" duration="5226000" />
+      <workItem from="1745541191235" duration="16319000" />
+      <workItem from="1745717468229" duration="7270000" />
+      <workItem from="1745801076010" duration="1341000" />
+      <workItem from="1745841376822" duration="2433000" />
+      <workItem from="1745889227305" duration="11553000" />
+      <workItem from="1746105721865" duration="3765000" />
+      <workItem from="1746167851187" duration="5044000" />
+      <workItem from="1746246848687" duration="1273000" />
+      <workItem from="1746363969389" duration="76000" />
+      <workItem from="1746447211006" duration="2831000" />
+      <workItem from="1746491596054" duration="2654000" />
+      <workItem from="1746618446936" duration="2241000" />
+      <workItem from="1746669948736" duration="4292000" />
+      <workItem from="1746753951317" duration="9864000" />
+      <workItem from="1746944358570" duration="3844000" />
+      <workItem from="1747037505165" duration="4897000" />
+      <workItem from="1747122494491" duration="2072000" />
+      <workItem from="1747194261901" duration="5495000" />
+      <workItem from="1747295932596" duration="1009000" />
+      <workItem from="1747357252665" duration="1355000" />
+      <workItem from="1747552831304" duration="2789000" />
+      <workItem from="1747657789914" duration="1000" />
+      <workItem from="1747830853605" duration="1935000" />
+      <workItem from="1747879656418" duration="2273000" />
+      <workItem from="1747969112651" duration="2340000" />
+      <workItem from="1748049302798" duration="5013000" />
+      <workItem from="1748083962212" duration="630000" />
+      <workItem from="1748153098093" duration="2148000" />
+      <workItem from="1748306396524" duration="8777000" />
+      <workItem from="1748330146361" duration="2085000" />
+      <workItem from="1748503008566" duration="1862000" />
+      <workItem from="1748521539131" duration="1475000" />
+      <workItem from="1748921580991" duration="3478000" />
+      <workItem from="1749002123681" duration="8060000" />
+      <workItem from="1749040031019" duration="1342000" />
+      <workItem from="1749085242649" duration="2051000" />
+      <workItem from="1749215778197" duration="1842000" />
+      <workItem from="1749261110692" duration="6043000" />
+      <workItem from="1749433047688" duration="6327000" />
+      <workItem from="1749522623583" duration="1668000" />
+      <workItem from="1749539178849" duration="5794000" />
+      <workItem from="1749554636706" duration="5469000" />
+      <workItem from="1749625872933" duration="6570000" />
+      <workItem from="1749689404287" duration="1293000" />
+      <workItem from="1749709832961" duration="7439000" />
+      <workItem from="1749798329638" duration="1232000" />
+      <workItem from="1749863991561" duration="5506000" />
+      <workItem from="1749971801651" duration="5813000" />
+      <workItem from="1750035264717" duration="6949000" />
+      <workItem from="1750245694106" duration="2418000" />
+      <workItem from="1750564215709" duration="4592000" />
+      <workItem from="1750643907083" duration="13516000" />
+      <workItem from="1750728769485" duration="2264000" />
+      <workItem from="1750746015936" duration="11801000" />
+      <workItem from="1750811213943" duration="5279000" />
+      <workItem from="1750854590127" duration="653000" />
+      <workItem from="1750904101663" duration="13288000" />
+      <workItem from="1750988002515" duration="2398000" />
+      <workItem from="1751015615869" duration="1094000" />
+      <workItem from="1751021390029" duration="5681000" />
+      <workItem from="1751090272169" duration="5473000" />
+      <workItem from="1751166876837" duration="18522000" />
+      <workItem from="1751251063920" duration="14462000" />
+      <workItem from="1751339368736" duration="29804000" />
+      <workItem from="1751503693604" duration="5923000" />
+      <workItem from="1751592042807" duration="3107000" />
+      <workItem from="1751612443759" duration="9919000" />
+      <workItem from="1751882939914" duration="904000" />
+      <workItem from="1751942338620" duration="11896000" />
+      <workItem from="1752053992712" duration="151000" />
+      <workItem from="1752054160252" duration="1312000" />
+      <workItem from="1752106870589" duration="635000" />
+      <workItem from="1752113252416" duration="3480000" />
+      <workItem from="1752131277063" duration="617000" />
+      <workItem from="1752201397764" duration="83000" />
+      <workItem from="1752283981451" duration="3013000" />
+      <workItem from="1752409325298" duration="3113000" />
+      <workItem from="1752455227117" duration="7249000" />
+      <workItem from="1752541983375" duration="14032000" />
+      <workItem from="1752631697102" duration="5020000" />
+      <workItem from="1752663667567" duration="2286000" />
+      <workItem from="1752669428720" duration="1654000" />
+      <workItem from="1752714891857" duration="6168000" />
+      <workItem from="1752732500153" duration="7100000" />
+      <workItem from="1752802120476" duration="6476000" />
+      <workItem from="1752832600638" duration="692000" />
+      <workItem from="1752833947534" duration="1080000" />
+      <workItem from="1752835088982" duration="1759000" />
+      <workItem from="1752836871203" duration="853000" />
+      <workItem from="1752837739913" duration="4594000" />
+      <workItem from="1752889831222" duration="3144000" />
+      <workItem from="1752915482809" duration="11209000" />
+      <workItem from="1752974146589" duration="19289000" />
+      <workItem from="1753100458633" duration="2388000" />
+      <workItem from="1753148148850" duration="12206000" />
+      <workItem from="1753238461524" duration="4618000" />
+      <workItem from="1753255295970" duration="847000" />
+      <workItem from="1753325044614" duration="8691000" />
+      <workItem from="1753353281302" duration="727000" />
+      <workItem from="1753355302151" duration="691000" />
+      <workItem from="1753408923872" duration="2895000" />
+      <workItem from="1753428297663" duration="2767000" />
+      <workItem from="1753494885649" duration="4451000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LC/longgestPalindrome.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LC/longgestPalindrome.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/demo/ChainPatternDemo.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/demo/ChainPatternDemo.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/demo/ChainPatternDemo.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/demo/yongyou/test01.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Singleton/Singleton.java</url>
+          <line>3</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/MiniSpring/MiniApplicationContext.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/MiniSpring/MiniApplicationContext.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/MiniSpring/MiniApplicationContext.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/MiniSpring/MiniApplicationContext.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/OnlineCode/LC78.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="fields[0]" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
