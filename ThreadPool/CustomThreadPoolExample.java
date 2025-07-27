@@ -31,5 +31,6 @@ public class CustomThreadPoolExample {
             });
         }
         executor.shutdown();
+        System.out.println("第一次修改");
     }
 }
