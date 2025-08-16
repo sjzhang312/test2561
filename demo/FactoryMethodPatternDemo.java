@@ -64,6 +64,7 @@ class SimpleFactory {
         Transport truck = SimpleFactory.createTransport("truck");
         truck.deliver();
 
+
         Transport ship = SimpleFactory.createTransport("ship");
         ship.deliver();
     }

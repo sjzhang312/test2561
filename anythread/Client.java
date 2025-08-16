@@ -17,7 +17,10 @@ public class Client {
 
         OutputStream output = socket.getOutputStream();
         PrintWriter writer = new PrintWriter(output, true);
-        writer.println("Hello, server!");
+        writer.write("hello");
+        writer.write("server");
+        writer.println();
+        //writer.println("Hello, server!");
 
         String response = reader.readLine();
         System.out.println("Server response: " + response);

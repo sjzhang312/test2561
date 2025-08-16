@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4efa49a-718b-4c89-a4ef-f509c3814cf2" name="Changes" comment="" />
+    <list default="true" id="c4efa49a-718b-4c89-a4ef-f509c3814cf2" name="Changes" comment="第一次修改">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,6 +38,12 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="6b991a64-4850-42ea-a77a-5c1609823d14" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -50,10 +59,14 @@
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
   </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="2unTppcmst0BiNAL6J0JEWmrK77" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -112,21 +125,32 @@
     "Application.LC23.executor": "Run",
     "Application.LC236.executor": "Run",
     "Application.LC2384.executor": "Run",
+    "Application.LC239.executor": "Run",
     "Application.LC25.executor": "Run",
+    "Application.LC283.executor": "Run",
     "Application.LC300.executor": "Run",
+    "Application.LC31.executor": "Run",
     "Application.LC32.executor": "Run",
     "Application.LC322.executor": "Run",
     "Application.LC33.executor": "Run",
+    "Application.LC41.executor": "Run",
     "Application.LC415.executor": "Run",
     "Application.LC42.executor": "Run",
+    "Application.LC43.executor": "Run",
     "Application.LC46.executor": "Run",
+    "Application.LC49.executor": "Run",
     "Application.LC53.executor": "Run",
     "Application.LC54.executor": "Run",
     "Application.LC56 (1).executor": "Run",
     "Application.LC56.executor": "Run",
+    "Application.LC560.executor": "Run",
+    "Application.LC567.executor": "Run",
+    "Application.LC69.executor": "Run",
     "Application.LC72.executor": "Run",
     "Application.LC76.executor": "Run",
     "Application.LC78.executor": "Run",
+    "Application.LC79.executor": "Run",
+    "Application.LC8.executor": "Debug",
     "Application.LC88.executor": "Run",
     "Application.LC912.executor": "Run",
     "Application.LC92.executor": "Run",
@@ -138,6 +162,10 @@
     "Application.Main1.executor": "Run",
     "Application.MultiConditionDemo.executor": "Run",
     "Application.MultiThreadedServer.executor": "Run",
+    "Application.MyCallable (1).executor": "Run",
+    "Application.MyCallable (2).executor": "Run",
+    "Application.MyCallable (3).executor": "Run",
+    "Application.MyCallable (4).executor": "Run",
     "Application.MyCallable.executor": "Run",
     "Application.MyRunnable.executor": "Run",
     "Application.MyThread.executor": "Run",
@@ -159,6 +187,8 @@
     "Application.Sum3.executor": "Run",
     "Application.TCPClient.executor": "Run",
     "Application.TCPServer.executor": "Run",
+    "Application.TcpClient.executor": "Run",
+    "Application.TcpServer.executor": "Run",
     "Application.Test.executor": "Run",
     "Application.Test2.executor": "Run",
     "Application.Test3.executor": "Run",
@@ -200,6 +230,7 @@
     "Application.demo07.executor": "Run",
     "Application.demo0720.executor": "Run",
     "Application.demo2.executor": "Run",
+    "Application.demo3.executor": "Run",
     "Application.demo4.executor": "Run",
     "Application.demo5.executor": "Run",
     "Application.jd01 (1).executor": "Run",
@@ -230,20 +261,20 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
+    "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.48421052",
-    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.demo07 (4)">
-    <configuration name="demo07 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="anythread.demo07" />
+  <component name="RunManager" selected="Application.quickSort">
+    <configuration name="LC8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OnlineCode.LC8" />
       <module name="Code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="anythread.*" />
+          <option name="PATTERN" value="OnlineCode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -251,12 +282,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="demo07 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="anythread.demo07" />
+    <configuration name="MyCallable (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreadPool.MyCallable" />
       <module name="Code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="anythread.*" />
+          <option name="PATTERN" value="ThreadPool.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -264,12 +295,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="demo07 (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="anythread.demo07" />
+    <configuration name="MyCallable (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreadPool.MyCallable" />
       <module name="Code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="anythread.*" />
+          <option name="PATTERN" value="ThreadPool.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -277,12 +308,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="demo07 (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="anythread.demo07" />
+    <configuration name="MyCallable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreadPool.MyCallable" />
       <module name="Code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="anythread.*" />
+          <option name="PATTERN" value="ThreadPool.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -290,26 +321,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="demo07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="anythread.demo07" />
+    <configuration name="quickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="quickSort" />
       <module name="Code" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="anythread.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.demo07 (4)" />
-        <item itemvalue="Application.demo07 (3)" />
-        <item itemvalue="Application.demo07" />
-        <item itemvalue="Application.demo07 (2)" />
-        <item itemvalue="Application.demo07 (1)" />
+        <item itemvalue="Application.quickSort" />
+        <item itemvalue="Application.LC8" />
+        <item itemvalue="Application.MyCallable (4)" />
+        <item itemvalue="Application.MyCallable (3)" />
+        <item itemvalue="Application.MyCallable" />
       </list>
     </recent_temporary>
   </component>
@@ -322,6 +347,14 @@
     </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+    <option name="myConnectionType" value="SSH_CONFIG" />
+    <option name="myConnectionId" value="a509@192.168.166.50:22 password" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Jason\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="c4efa49a-718b-4c89-a4ef-f509c3814cf2" name="Changes" comment="" />
@@ -463,11 +496,145 @@
       <workItem from="1753408923872" duration="2895000" />
       <workItem from="1753428297663" duration="2767000" />
       <workItem from="1753494885649" duration="6937000" />
+      <workItem from="1753580090809" duration="2478000" />
+      <workItem from="1753619747330" duration="3111000" />
+      <workItem from="1753663115200" duration="4645000" />
+      <workItem from="1753756257407" duration="3091000" />
+      <workItem from="1753770534243" duration="49000" />
+      <workItem from="1753770591976" duration="2454000" />
+      <workItem from="1753773561309" duration="3236000" />
+      <workItem from="1753837756239" duration="8274000" />
+      <workItem from="1753866859347" duration="2872000" />
+      <workItem from="1753884144776" duration="1974000" />
+      <workItem from="1753925361717" duration="3315000" />
+      <workItem from="1753940378767" duration="2379000" />
+      <workItem from="1753946422772" duration="1310000" />
+      <workItem from="1753950953365" duration="1000" />
+      <workItem from="1754011250881" duration="3657000" />
+      <workItem from="1754033206605" duration="5113000" />
+      <workItem from="1754054005317" duration="2575000" />
+      <workItem from="1754056594709" duration="591000" />
+      <workItem from="1754057199135" duration="257000" />
+      <workItem from="1754097924335" duration="2187000" />
+      <workItem from="1754365956999" duration="11708000" />
+      <workItem from="1754443713436" duration="6846000" />
+      <workItem from="1754460491683" duration="326000" />
+      <workItem from="1754530544525" duration="6167000" />
+      <workItem from="1754544044372" duration="5717000" />
+      <workItem from="1754619427440" duration="4402000" />
+      <workItem from="1754789169065" duration="5606000" />
+      <workItem from="1754876941248" duration="8609000" />
+      <workItem from="1755086594719" duration="2172000" />
+      <workItem from="1755179533386" duration="595000" />
+      <workItem from="1755313654785" duration="1159000" />
     </task>
+    <task id="LOCAL-00001" summary="java算法代码">
+      <option name="closed" value="true" />
+      <created>1753580215054</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1753580215054</updated>
+    </task>
+    <task id="LOCAL-00002" summary="第一次修改">
+      <option name="closed" value="true" />
+      <created>1753581336803</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1753581336803</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="2da4b11a-4ac4-4019-9892-f8da85feb49f" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/master" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="HEAD" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="2da4b11a-4ac4-4019-9892-f8da85feb49f">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="java算法代码" />
+    <MESSAGE value="第一次修改" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一次修改" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -531,6 +698,11 @@
           <url>file://$PROJECT_DIR$/OnlineCode/LC78.java</url>
           <line>28</line>
           <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/anythread/TCP/TcpClient.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="34" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

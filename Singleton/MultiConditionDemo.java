@@ -6,8 +6,12 @@ import java.util.concurrent.locks.ReentrantLock;
 public class MultiConditionDemo {
 
     private final ReentrantLock lock = new ReentrantLock();
+
+
+
     private final Condition conditionA = lock.newCondition();
     private final Condition conditionB = lock.newCondition();
+
 
     public void awaitA() {
         lock.lock();

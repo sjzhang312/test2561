@@ -16,30 +16,30 @@ public class LC25 {
         }
     }
 
-    private static ListNode reverseKGroup(ListNode head,int k) {
-        if(head==null)return null;
+    public static ListNode reverseKGroup(ListNode head,int k){
         ListNode p=head;
         int cnt=0;
-        while(p!=null && cnt<k){
-            p=p.next;
+        while(cnt<k && p!=null){
             cnt++;
+            p=p.next;
         }
-        ListNode L=new ListNode();
-        L.next=null;
-        p=head;
+        ListNode L = new ListNode();
+        if(cnt== k){
 
-        if(cnt==k){
-            while(p!=null && cnt>0){
-                ListNode q=p;
+            p=head;
+            cnt=0;
+            while(cnt<k && p!=null){
+                cnt++;
+                ListNode q= p;
                 p=p.next;
                 q.next=L.next;
                 L.next=q;
-                cnt--;
             }
             head.next=reverseKGroup(p,k);
         }else{
             return head;
         }
+
         return L.next;
     }
 }

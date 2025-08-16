@@ -1,13 +1,22 @@
 package ThreadPool;
-public class MyRunnable extends Thread{
-    @Override
-    public void run() {
-        System.out.println("Thread is running: " + Thread.currentThread().getName());
-    }
+
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
+
+public class MyRunnable {
+
 
     public static void main(String[] args) {
-        Runnable runnable = new MyRunnable();
-        Thread thread = new Thread(runnable);
-        thread.start(); // 启动线程
+        Runnable runnable =new Runnable() {
+            @Override
+            public void run() {
+                System.out.println(111);
+            }
+        };
+
+        ExecutorService executor = Executors.newFixedThreadPool(1);
+
+        executor.execute(runnable);
+        executor.shutdown();
     }
 }

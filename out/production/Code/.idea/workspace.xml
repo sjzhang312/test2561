@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4efa49a-718b-4c89-a4ef-f509c3814cf2" name="Changes" comment="" />
+    <list default="true" id="c4efa49a-718b-4c89-a4ef-f509c3814cf2" name="Changes" comment="第一次修改">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,6 +38,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -47,195 +53,226 @@
   <component name="MavenRunner">
     <option name="jreName" value="17" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="2unTppcmst0BiNAL6J0JEWmrK77" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ApiTest.executor": "Run",
-    "Application.BiTree.executor": "Run",
-    "Application.CallableTask.executor": "Run",
-    "Application.ChainPatternDemo (1).executor": "Run",
-    "Application.ChainPatternDemo.executor": "Run",
-    "Application.Client.executor": "Run",
-    "Application.Comparator.executor": "Run",
-    "Application.Comparator1 (1).executor": "Run",
-    "Application.Comparator1.executor": "Run",
-    "Application.CompleteRank.executor": "Run",
-    "Application.CustomThreadPoolExample.executor": "Run",
-    "Application.Demo (1).executor": "Run",
-    "Application.Demo.executor": "Run",
-    "Application.Demo0719 (1).executor": "Run",
-    "Application.Demo0719 (2).executor": "Run",
-    "Application.Demo0719 (4).executor": "Run",
-    "Application.Demo0719.executor": "Run",
-    "Application.ExecutorThread.executor": "Run",
-    "Application.FactoryMethodPatternDemo.executor": "Run",
-    "Application.FatoryPatternDemo.executor": "Run",
-    "Application.Fun1.executor": "Run",
-    "Application.Future.Main.executor": "Run",
-    "Application.GetClassDemo.executor": "Run",
-    "Application.LC.demo.executor": "Run",
-    "Application.LC01.executor": "Run",
-    "Application.LC0427.Solution.executor": "Run",
-    "Application.LC102.executor": "Run",
-    "Application.LC121.executor": "Run",
-    "Application.LC124.executor": "Run",
-    "Application.LC128.executor": "Run",
-    "Application.LC131.executor": "Run",
-    "Application.LC14.executor": "Run",
-    "Application.LC141.executor": "Run",
-    "Application.LC142.executor": "Run",
-    "Application.LC143.executor": "Run",
-    "Application.LC146 (1).executor": "Run",
-    "Application.LC146.executor": "Run",
-    "Application.LC148.executor": "Run",
-    "Application.LC15.executor": "Run",
-    "Application.LC151.executor": "Run",
-    "Application.LC165.executor": "Run",
-    "Application.LC19.executor": "Run",
-    "Application.LC199.executor": "Run",
-    "Application.LC20.executor": "Run",
-    "Application.LC200.executor": "Run",
-    "Application.LC21.executor": "Run",
-    "Application.LC215.executor": "Run",
-    "Application.LC219.executor": "Run",
-    "Application.LC22.executor": "Run",
-    "Application.LC23.executor": "Run",
-    "Application.LC236.executor": "Run",
-    "Application.LC2384.executor": "Run",
-    "Application.LC25.executor": "Run",
-    "Application.LC300.executor": "Run",
-    "Application.LC32.executor": "Run",
-    "Application.LC322.executor": "Run",
-    "Application.LC33.executor": "Run",
-    "Application.LC415.executor": "Run",
-    "Application.LC42.executor": "Run",
-    "Application.LC46.executor": "Run",
-    "Application.LC53.executor": "Run",
-    "Application.LC54.executor": "Run",
-    "Application.LC56 (1).executor": "Run",
-    "Application.LC56.executor": "Run",
-    "Application.LC72.executor": "Run",
-    "Application.LC76.executor": "Run",
-    "Application.LC78.executor": "Run",
-    "Application.LC88.executor": "Run",
-    "Application.LC912.executor": "Run",
-    "Application.LC92.executor": "Run",
-    "Application.LRUCache.executor": "Run",
-    "Application.LargeLocalVariables.executor": "Run",
-    "Application.ListNode.executor": "Run",
-    "Application.Main (1).executor": "Run",
-    "Application.Main.executor": "Debug",
-    "Application.Main1.executor": "Run",
-    "Application.MultiConditionDemo.executor": "Run",
-    "Application.MultiThreadedServer.executor": "Run",
-    "Application.MyCallable.executor": "Run",
-    "Application.MyRunnable.executor": "Run",
-    "Application.MyThread.executor": "Run",
-    "Application.NonDecreasingXOR.executor": "Run",
-    "Application.OnlineCode.LC20.executor": "Run",
-    "Application.ParamTest.executor": "Run",
-    "Application.Person.executor": "Run",
-    "Application.ReentrantLockExample (1).executor": "Run",
-    "Application.ReentrantLockExample.executor": "Run",
-    "Application.ReverseList.executor": "Run",
-    "Application.Server.executor": "Run",
-    "Application.SimpleFactory.executor": "Run",
-    "Application.SimpleFileTransferTest.executor": "Run",
-    "Application.Solution.executor": "Run",
-    "Application.Solution1.executor": "Run",
-    "Application.Solution2.executor": "Debug",
-    "Application.SolutionDFS.executor": "Run",
-    "Application.SortStack.executor": "Run",
-    "Application.Sum3.executor": "Run",
-    "Application.TCPClient.executor": "Run",
-    "Application.TCPServer.executor": "Run",
-    "Application.Test.executor": "Run",
-    "Application.Test2.executor": "Run",
-    "Application.Test3.executor": "Run",
-    "Application.Thread2.executor": "Run",
-    "Application.ThreadPoolExample.executor": "Run",
-    "Application.UDPClient.executor": "Run",
-    "Application.UDPServer.executor": "Run",
-    "Application.VolatileAtomicityDemo.executor": "Run",
-    "Application.WaitNotifyDemo.executor": "Run",
-    "Application.Wangxiaoer.executor": "Run",
-    "Application.Zhangsan.executor": "Run",
-    "Application.ZigTraversal.executor": "Run",
-    "Application.code02.executor": "Run",
-    "Application.code03.executor": "Run",
-    "Application.demo (1).executor": "Run",
-    "Application.demo.demo.executor": "Run",
-    "Application.demo.executor": "Run",
-    "Application.demo01.executor": "Run",
-    "Application.demo02.executor": "Run",
-    "Application.demo03 (1).executor": "Run",
-    "Application.demo03.executor": "Run",
-    "Application.demo0416.executor": "Run",
-    "Application.demo0418 (1).executor": "Run",
-    "Application.demo0418.executor": "Run",
-    "Application.demo0420.executor": "Run",
-    "Application.demo0421.executor": "Run",
-    "Application.demo0422.executor": "Run",
-    "Application.demo0509.executor": "Run",
-    "Application.demo0515.executor": "Run",
-    "Application.demo0522.executor": "Run",
-    "Application.demo0604.executor": "Run",
-    "Application.demo0606.executor": "Run",
-    "Application.demo0612.executor": "Run",
-    "Application.demo07.executor": "Run",
-    "Application.demo0720.executor": "Run",
-    "Application.demo2.executor": "Run",
-    "Application.demo4.executor": "Run",
-    "Application.demo5.executor": "Run",
-    "Application.jd01 (1).executor": "Run",
-    "Application.jd01.executor": "Run",
-    "Application.keda2.executor": "Run",
-    "Application.lC18.executor": "Run",
-    "Application.lc347.executor": "Run",
-    "Application.longgestPalindrome.executor": "Run",
-    "Application.quickSort.executor": "Run",
-    "Application.test01.executor": "Run",
-    "Application.xf01.executor": "Run",
-    "Application.xf02.executor": "Run",
-    "Application.xf03 (1).executor": "Run",
-    "Application.xf03 (2).executor": "Run",
-    "Application.xf03 (3).executor": "Run",
-    "Application.xf03.executor": "Run",
-    "Application.xf0322.executor": "Run",
-    "Application.xf072701 (1).executor": "Run",
-    "Application.xf072701.executor": "Debug",
-    "Application.xf072702.executor": "Run",
-    "Application.xf072703.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "jdk.selected.JAVA_MODULE": "17",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/JavaProject/Code",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.48421052",
-    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ApiTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BiTree.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CallableTask.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ChainPatternDemo (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.ChainPatternDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Client.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Comparator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Comparator1 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Comparator1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CompleteRank.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CustomThreadPoolExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Demo (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Demo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Demo0719 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Demo0719 (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Demo0719 (4).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Demo0719.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExecutorThread.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FactoryMethodPatternDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FatoryPatternDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Fun1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Future.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GetClassDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LC.demo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LC01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LC0427.Solution.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LC102.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LC121.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LC124.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LC128.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LC131.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LC14.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LC141.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LC142.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LC143.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LC146 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.LC146.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LC148.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LC15.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LC151.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LC165.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LC19.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LC199.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LC20.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LC200.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LC21.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LC215.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LC219.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LC22.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LC23.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LC236.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LC2384.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LC239.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LC25.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LC283.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LC300.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LC31.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LC32.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LC322.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LC33.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LC41.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LC415.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LC42.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LC43.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LC46.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LC49.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LC53.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LC54.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LC56 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.LC56.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LC560.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LC567.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LC69.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LC72.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LC76.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LC78.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LC79.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LC8.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.LC88.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LC912.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LC92.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LRUCache.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LargeLocalVariables.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ListNode.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Main1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MultiConditionDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MultiThreadedServer.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MyCallable (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.MyCallable (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.MyCallable (3).executor&quot;: &quot;Run&quot;,
+    &quot;Application.MyCallable (4).executor&quot;: &quot;Run&quot;,
+    &quot;Application.MyCallable.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MyRunnable.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MyThread.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NonDecreasingXOR.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OnlineCode.LC20.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ParamTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Person.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReentrantLockExample (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReentrantLockExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Server.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SimpleFactory.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SimpleFileTransferTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Solution.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Solution1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Solution2.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.SolutionDFS.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SortStack.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sum3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TCPClient.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TCPServer.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TcpClient.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TcpServer.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Thread2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThreadPoolExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UDPClient.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UDPServer.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VolatileAtomicityDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WaitNotifyDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Wangxiaoer.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Zhangsan.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ZigTraversal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.code02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.code03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo.demo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo03 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo0416.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo0418 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo0418.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo0420.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo0421.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo0422.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo0509.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo0515.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo0522.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo0604.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo0606.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo0612.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo07 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo07 (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo07 (3).executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo07 (4).executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo07 (5).executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo07.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo0720.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.jd01 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.jd01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.keda2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lC18.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lc347.executor&quot;: &quot;Run&quot;,
+    &quot;Application.longgestPalindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Application.quickSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.test01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.xf01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.xf02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.xf03 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.xf03 (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.xf03 (3).executor&quot;: &quot;Run&quot;,
+    &quot;Application.xf03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.xf0322.executor&quot;: &quot;Run&quot;,
+    &quot;Application.xf072701 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.xf072701.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.xf072702.executor&quot;: &quot;Run&quot;,
+    &quot;Application.xf072703.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/JavaProject/Code&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.48421052&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propCompiler&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.demo07">
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="anythread.Client" />
+}</component>
+  <component name="RunManager" selected="Application.quickSort">
+    <configuration name="LC8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OnlineCode.LC8" />
       <module name="Code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="anythread.*" />
+          <option name="PATTERN" value="OnlineCode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -243,12 +280,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="anythread.Server" />
+    <configuration name="MyCallable (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreadPool.MyCallable" />
       <module name="Code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="anythread.*" />
+          <option name="PATTERN" value="ThreadPool.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -256,12 +293,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpleFileTransferTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="anythread.SimpleFileTransferTest" />
+    <configuration name="MyCallable (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreadPool.MyCallable" />
       <module name="Code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="anythread.*" />
+          <option name="PATTERN" value="ThreadPool.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -269,12 +306,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UDPClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="anythread.UDPClient" />
+    <configuration name="MyCallable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreadPool.MyCallable" />
       <module name="Code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="anythread.*" />
+          <option name="PATTERN" value="ThreadPool.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -282,26 +319,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="demo07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="anythread.demo07" />
+    <configuration name="quickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="quickSort" />
       <module name="Code" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="anythread.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.demo07" />
-        <item itemvalue="Application.Client" />
-        <item itemvalue="Application.Server" />
-        <item itemvalue="Application.SimpleFileTransferTest" />
-        <item itemvalue="Application.UDPClient" />
+        <item itemvalue="Application.quickSort" />
+        <item itemvalue="Application.LC8" />
+        <item itemvalue="Application.MyCallable (4)" />
+        <item itemvalue="Application.MyCallable (3)" />
+        <item itemvalue="Application.MyCallable" />
       </list>
     </recent_temporary>
   </component>
@@ -314,6 +345,14 @@
     </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+    <option name="myConnectionType" value="SSH_CONFIG" />
+    <option name="myConnectionId" value="a509@192.168.166.50:22 password" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Jason\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="c4efa49a-718b-4c89-a4ef-f509c3814cf2" name="Changes" comment="" />
@@ -454,12 +493,144 @@
       <workItem from="1753355302151" duration="691000" />
       <workItem from="1753408923872" duration="2895000" />
       <workItem from="1753428297663" duration="2767000" />
-      <workItem from="1753494885649" duration="4451000" />
+      <workItem from="1753494885649" duration="6937000" />
+      <workItem from="1753580090809" duration="2478000" />
+      <workItem from="1753619747330" duration="3111000" />
+      <workItem from="1753663115200" duration="4645000" />
+      <workItem from="1753756257407" duration="3091000" />
+      <workItem from="1753770534243" duration="49000" />
+      <workItem from="1753770591976" duration="2454000" />
+      <workItem from="1753773561309" duration="3236000" />
+      <workItem from="1753837756239" duration="8274000" />
+      <workItem from="1753866859347" duration="2872000" />
+      <workItem from="1753884144776" duration="1974000" />
+      <workItem from="1753925361717" duration="3315000" />
+      <workItem from="1753940378767" duration="2379000" />
+      <workItem from="1753946422772" duration="1310000" />
+      <workItem from="1753950953365" duration="1000" />
+      <workItem from="1754011250881" duration="3657000" />
+      <workItem from="1754033206605" duration="5113000" />
+      <workItem from="1754054005317" duration="2575000" />
+      <workItem from="1754056594709" duration="591000" />
+      <workItem from="1754057199135" duration="257000" />
+      <workItem from="1754097924335" duration="2187000" />
+      <workItem from="1754365956999" duration="11708000" />
+      <workItem from="1754443713436" duration="6846000" />
+      <workItem from="1754460491683" duration="326000" />
+      <workItem from="1754530544525" duration="6167000" />
+      <workItem from="1754544044372" duration="5717000" />
+      <workItem from="1754619427440" duration="4402000" />
+      <workItem from="1754789169065" duration="5606000" />
+      <workItem from="1754876941248" duration="8609000" />
+      <workItem from="1755086594719" duration="2172000" />
     </task>
+    <task id="LOCAL-00001" summary="java算法代码">
+      <option name="closed" value="true" />
+      <created>1753580215054</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1753580215054</updated>
+    </task>
+    <task id="LOCAL-00002" summary="第一次修改">
+      <option name="closed" value="true" />
+      <created>1753581336803</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1753581336803</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="2da4b11a-4ac4-4019-9892-f8da85feb49f" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/master" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="HEAD" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="2da4b11a-4ac4-4019-9892-f8da85feb49f">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="java算法代码" />
+    <MESSAGE value="第一次修改" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一次修改" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -523,6 +694,11 @@
           <url>file://$PROJECT_DIR$/OnlineCode/LC78.java</url>
           <line>28</line>
           <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/anythread/TCP/TcpClient.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="34" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
